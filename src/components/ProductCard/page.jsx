@@ -17,7 +17,7 @@ const ProductCard = () => {
         quality={100} // Adjust quality to improve image rendering
       />
       <div className='p-4 text-black'>
-        <h2 className='text-sm uppercase'>2024 RICK OWENS L</h2>
+        <h2 className='text-sm uppercase'>2024 RICK OWENS L +</h2>
         <div className='flex items-center my-2 text-sm text-black'>
           <p>$30</p>
         </div>
